@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning software architecture.
-- 💬 Ask me about ...
 - 📫 Reach me at aeolus.cherokee@gmail.com
-- ⚡ Fun fact: ...
 
 📈 **My GitHub Stats:**
 
