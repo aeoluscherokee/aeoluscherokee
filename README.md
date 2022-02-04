@@ -11,7 +11,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/krittanu-riyapan/)](https://linkedin.com/in/krittanu-riyapan/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/AeolusReTurN)](https://twitter.com/AeolusReTurN)
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&logo=facebook&logoColor=white&link=https://facebook.com/aeolus.return/)](https://facebook.com/aeolus.return/)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&logo=facebook&logoColor=white&link=https://facebook.com/krittanu.riyapan/)](https://facebook.com/krittanu.riyapan/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/aeolusreturn/)](https://instagram.com/aeolusreturn/)
 [![GMail Badge](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white&link=mailto:aeolus.cherokee@gmail.com)](mailto:aeolus.cherokee@gmail.com)
 
